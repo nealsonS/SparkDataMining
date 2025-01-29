@@ -4,3 +4,4 @@
 - Mainly written in Spark's Python SDK: PySpark
 - Most algorithms here manipulates Spark RDDs not Spark DataFrames
     - With some exceptions using GraphFrames and Spark SQL
+ > Note: Some algorithms are lost or incomplete.
